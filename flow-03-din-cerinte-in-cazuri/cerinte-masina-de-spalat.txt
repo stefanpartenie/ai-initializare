@@ -1,0 +1,31 @@
+CERINTE - MASINA DE SPALAT MODEL MS-200
+versiunea 1.3, document de lucru
+
+Toate cerintele de mai jos sunt inventate pentru un exercitiu. Nu descriu
+niciun produs real.
+
+
+C1. Utilizatorul poate alege unul dintre cele 6 programe de spalare: Bumbac,
+Sintetice, Delicate, Lana, Rapid 30, Clatire. Programul ales ramane afisat pe
+ecran pana la pornire.
+
+C2. La apasarea butonului Start, masina verifica daca usa este inchisa. Daca usa
+este deschisa, pe ecran apare mesajul "Inchideti usa" si programul nu porneste.
+
+C3. Masina trebuie sa se blocheze automat dupa pornire, iar usa sa nu mai poata
+fi deschisa pana la finalul programului.
+
+C4. Programul Rapid 30 trebuie sa se termine rapid.
+
+C5. Daca in timpul spalarii se intrerupe alimentarea cu energie electrica,
+masina retine programul si etapa la care a ramas. La revenirea curentului,
+programul continua din acel punct.
+
+C6. Utilizatorul poate deschide usa in orice moment prin apasarea lunga a
+butonului Stop, timp de 3 secunde.
+
+C7. Temperatura poate fi reglata intre 20 si 90 de grade, iar turatia de
+stoarcere intre 400 si 1400 de rotatii pe minut; valorile nepermise pentru
+programul ales sunt respinse.
+
+C8. La finalul programului ar trebui sa se auda un semnal sonor.
